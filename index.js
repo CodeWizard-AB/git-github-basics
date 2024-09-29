@@ -3,5 +3,3 @@ const person = {
 	age: 34,
 	name: "John Alen",
 };
-
-
